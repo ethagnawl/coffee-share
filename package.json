@@ -1,0 +1,21 @@
+{
+  "name": "coffee share",
+  "version": "0.0.1",
+  "description": "Coffee share demo",
+  "main": "coffeeshare.js",
+  "scripts": {
+    "start": "brunch watch --server"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ethagnawl/coffee-share.git"
+  },
+  "author": "Peter Doherty",
+  "license": "MIT",
+  "devDependencies": {
+    "brunch": "^1.8.5",
+    "elm-brunch": "^0.3.0",
+    "muicss": "^0.4.7"
+  }
+}

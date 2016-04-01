@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Coffee Share</title>
+        <link rel="stylesheet" href="style.css">
+        <link href="//cdn.muicss.com/mui-0.4.7/css/mui.min.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <div class="mui-container">
+            <div id='mount_point' class="mui-panel"></div>
+        </div>
+        <script src="coffeeshare.js"></script>
+        <script>
+        var root = document.getElementById('mount_point');
+        var app = Elm.embed(Elm.CoffeeShare, root);
+        </script>
+    </body>
+</html>
