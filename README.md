@@ -16,3 +16,11 @@ https://s3.amazonaws.com/pdoherty926-coffee-share/index.html
 
 ## Build
 `brunch build`
+
+## Inspiration
+- elm-brunch config inspired by: https://github.com/ivanoats/Bingo
+
+## TODO
+- Jerry -> Send -> April triggers `Maybe.withDefault` default value
+- create share table algorithmically
+- introduce Receive mappings and behavior
