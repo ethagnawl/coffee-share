@@ -52,7 +52,7 @@ monicaSends = fromList
 jerrySends = fromList
   [
     ("March", "Nikola Tesla")
-  , ("April", "Monica Cammock")
+  , ("April", "Monica Geller")
   , ("May", "Abbie Hoffman")
   , ("June", "Mark Twain")
   ]
@@ -62,20 +62,20 @@ abbieSends = fromList
     ("March", "Jerry Seinfeld")
   , ("April", "Nikola Tesla")
   , ("May", "Mark Twain")
-  , ("June", "Monica Cammock")
+  , ("June", "Monica Geller")
   ]
 
 markSends = fromList
   [
     ("March", "Abbie Hoffman")
   , ("April", "Jerry Seinfeld")
-  , ("May", "Monica Cammock")
+  , ("May", "Monica Geller")
   , ("June", "Nikola Tesla")
   ]
 
 nikolaSends = fromList
   [
-    ("March", "Monica Cammock")
+    ("March", "Monica Geller")
   , ("April", "Mark Twain")
   , ("May", "Jerry Seinfeld")
   , ("June", "Abbie Hoffman")
