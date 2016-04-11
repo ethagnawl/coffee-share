@@ -10,6 +10,7 @@ https://s3.amazonaws.com/pdoherty926-coffee-share/index.html
 ## Dependencies
 - node 5.7.1
 - elm 0.16
+- https://www.muicss.com/
 
 ## Develop
 `brunch watch --server`
